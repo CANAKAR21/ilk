@@ -1,0 +1,12 @@
+Logo dosyasını buraya ekleyin
+================================
+
+Ana sayfada arka planda görünen logo için:
+
+1. Logo dosyanızı "logo.png" adıyla kaydedin.
+2. Bu "images" klasörünün içine kopyalayın.
+
+Sonuç: images/logo.png
+
+Eğer logo eklemezseniz sayfa yine açılır; sadece hero bölümünde
+arka plan logosu boş görünür.
